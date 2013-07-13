@@ -9,6 +9,7 @@ General
 - Protein should come from good quality products (organic, free range, ...),
   be lean (chicken breast, fish, eggs, beans, lentils). [#TP-top10]_
 - Carbs should be mainly from vegies and fruits (more nutrients) [#KB-TN]_
+- Have an acid/alkaline balanced died (see PRAL.rst) [#JF-TB]_
 
 Recommended intake per day
 --------------------------
@@ -61,15 +62,17 @@ Workout
 Pre-exercise
 """"""""""""
 - 0.5-1L of water 2-3 hours before [#TP-top10]_
-- Up to 1-1.5g of carbs per body weight (kg) 2 hours before [#TP-top10]_
+- Up to 1-1.5g of carbs per body weight (kg) 2 hours before [#TP-top10]_ [#JF-TB]_
 
 During exercise
 """""""""""""""
-- Water: 125-250mL per 15-20mn / 400-800mL/h [#TP-top10]_
+- Water: 125-250mL per 15-20mn / 400-800mL/h [#TP-top10]_ [#JF-TB]_
 
 If lasting more than 90mn:
 
 - Carbs (every 15mn)
+
+  From high glycemic index, liquids form. [#JF-TB]_
 
   - <3h: 30-60g/h [#TP-top10]_
   - >3h: 60-90g/h [#TP-top10]_
@@ -81,12 +84,21 @@ Post exercise
 
 With 15-20mn:
 
-- Carbs: ~1g/kg of body weight (high glycemic Index) [#TP-top10]_
+- Carbs: ~1g/kg of body weight (high glycemic Index) [#TP-top10]_ [#JF-TB]_
+
+  High glycemic index carbs not recommended without protein (may reduce release
+  of growth hormone) [#JF-TB]_
+- 15-20g of protein [#JF-TB]_
 - Fat, Fibre: low [#TP-top10]_
 
 Within 2h:
 
+Have a meal:
+
 - Carbs: 1-1.5g/kg of body weight [#TP-top10]_
+
+  Favorite starches. Best is potatoes, sweet potatoes, yams, bananas and raisins
+  (high in alkaline) [#JF-TB]_
 - Protein: 10-15g [#TP-top10]_
 - Vitamin C, iron [#TP-top10]_
 
@@ -95,3 +107,4 @@ Within 2h:
    `PDF <http://www.hc-sc.gc.ca/fn-an/alt_formats/hpfb-dgpsa/pdf/nutrition/dri_tables-eng.pdf>`_
 .. [#TP-top10] Tara Postnikoff. 2013. "Top 10 Nutritional Recommendations for a Triathletes"
 .. [#KB-TN] Kirsten Bedart. 2012. "Tailored Nutrition, Food that fuels"
+.. [#JF-TB] Joe Friel. 2009. "The Triathlete's Training Bible, 3rd Edition"
